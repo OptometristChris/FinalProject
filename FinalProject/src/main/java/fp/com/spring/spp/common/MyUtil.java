@@ -1,4 +1,4 @@
-package sp.com.spring.spp.common;
+package fp.com.spring.spp.common;
 
 import jakarta.servlet.http.HttpServletRequest;
 

@@ -1,4 +1,4 @@
-package sp.com.spring.app.config;
+package fp.com.spring.app.config;
 
 import javax.sql.DataSource;
 
