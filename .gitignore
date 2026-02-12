@@ -94,3 +94,20 @@ hs_err_pid*
 replay_pid*
 
 # End of https://www.toptal.com/developers/gitignore/api/java,eclipse
+
+##### commit 제외파일 #####
+/FinalProject/build.gradle
+/FinalProject/gradlew
+/FinalProject/gradlew.bat
+/FinalProject/HELP.md
+/FinalProject/settings.gradle
+
+/FinalProject/src/main/resources/static/bootstrap-4.6.2-dist
+/FinalProject/src/main/resources/static/Highcharts-10.3.1
+/FinalProject/src/main/resources/static/jquery-ui-1.13.1.custom
+/FinalProject/src/main/resources/static/js/jquery-3.7.1.min.js
+/FinalProject/src/main/resources/static/smarteditor
+/FinalProject/src/main/resources/static/SQL
+/FinalProject/src/main/resources/application.yml
+
+
